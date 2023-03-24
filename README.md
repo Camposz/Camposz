@@ -40,3 +40,4 @@ Manutenção dos apps de monitoramente das fazendas da amaggi
 
 📫 Entre em contato
 Se quiser conversar sobre React Native, desenvolvimento de aplicativos móveis ou apenas bater um papo, fique à vontade para entrar em contato comigo:
+✉️ mc.fracalossi@gmail.com
