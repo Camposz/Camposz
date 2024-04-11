@@ -1,7 +1,7 @@
 # Olá, Matheus Fracalossi aqui! 👋
-Sou um engenheiro de software com experiência em desenvolvimento de aplicativos móveis usando o React Native. Atualmente, trabalho como React Native Engineer na [Dotkon](https://www.dotkon.com.br/).
+Sou um engenheiro de software com experiência em desenvolvimento de aplicativos móveis usando o React Native
 
-  <a href="https://www.linkedin.com/in/matheus-fracalossi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mfracalossi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 ## 🚀 Tecnologias que eu trabalho
